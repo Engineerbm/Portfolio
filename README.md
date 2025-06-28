@@ -1,8 +1,6 @@
 # Portfolio
 Automation, PLC, HMI &amp; SCADA
-That’s an excellent, detailed professional summary! Here’s a refined and condensed version you can use for your CV, LinkedIn, or job applications, highlighting your expertise and aspirations:
 
----
 
 **Project Engineer | Mechanical & Control Systems | AI-Driven Innovation**
 
